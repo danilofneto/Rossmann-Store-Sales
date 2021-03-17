@@ -35,7 +35,7 @@ The dataset is available on kaggle plataform(https://www.kaggle.com/c/rossmann-s
 
 Sales grow more the shorter the distance to a competitor. 
 
-![salesByCompetitionDistance](img/sales_by_competition_distance.png)
+![salesByCompetitionDistance](img/sales_by_competition_distance.PNG)
 
 Sales grow more to store types "A" and "D". 
 Sales grow more in public Holidays.
@@ -60,14 +60,14 @@ The perfromance result indicate that i continue with XGBoost and Random Forest M
 
 XGBoost presents the best performance and time of execution, with a accuracity of **98.1%**.
 
-![xgboostFinalPerformance](img/xgboostFinalPerformance.png)
+![xgboostFinalPerformance](img/xgboostFinalPerformance.PNG)
 
 
 ## Convert Model Performance to Business Values
 
 In test data, I calcuted the prediction and comparision with the worst and better cenaries. The model brings a safety data to the CEO decision to sales reform investiment.
 
-![businessPerformance](img/businessPerformance.png)
+![businessPerformance](img/businessPerformance.PNG)
 
 # Next Steps
 * Workshop for the Bussiness Users.
