@@ -41,7 +41,7 @@ Sales grow more to store types "A" and "D".
 Sales grow more in public Holidays.
 Sales grow more to smaller assortment.
 
-![sales](img/sales_by_store_type_hollidays.png)
+![sales](img/sales_by_store_type_hollidays.PNG)
 
 
 ## Machine Learning Models
