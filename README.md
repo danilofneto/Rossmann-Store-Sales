@@ -59,7 +59,7 @@ Models used in this project:
 
 ## Models Performance
 
-XGBoost presents the best performance with a accuracy of **98%**.
+XGBoost presents the best performance compare with the others models.
 
 ![xgboostFinalPerformance](img/xgboostFinalPerformance.PNG)
 
