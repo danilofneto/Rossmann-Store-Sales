@@ -73,7 +73,7 @@ Based on the dataset we can imagine scenarios for the worst, best and ideal case
 # Next Steps
 * Workshop for the Bussiness Users.
 * collect feedback about the Model's useability.
-* Improve in 10% the Model's accuracy.
+* Improve Model's accuracy.
 
 
 # Contact
