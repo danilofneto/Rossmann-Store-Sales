@@ -37,35 +37,36 @@ Sales grow more the shorter the distance to a competitor.
 
 ![salesByCompetitionDistance](img/sales_by_competition_distance.PNG)
 
-Sales grow more to store types "A" and "D". 
-Sales grow more in public Holidays.
-Sales grow more to smaller assortment.
+Stores type A and D has higher sales
+
+Sales increase on public Holidays.
+
+
+Sales are increased to smaller assortment.
 
 ![sales](img/sales_by_store_type_hollidays.PNG)
 
 
 ## Machine Learning Models
 
-I used in this step the models:
+Models used in this project:
 * Average - Baseline
 * Linear Regression
 * Lasso Regression
 * Random Forest Regressor
 * XGBoost Regressor
 
-The perfromance result indicate that i continue with XGBoost and Random Forest Models.
-
 
 ## Models Performance
 
-XGBoost presents the best performance and time of execution, with a accuracity of **98.1%**.
+XGBoost presents the best performance with a accuracy of **98%**.
 
 ![xgboostFinalPerformance](img/xgboostFinalPerformance.PNG)
 
 
 ## Convert Model Performance to Business Values
 
-In test data, I calcuted the prediction and comparision with the worst and better cenaries. The model brings a safety data to the CEO decision to sales reform investiment.
+Based on the dataset we can imagine scenarios for the worst, best and ideal cases.
 
 ![businessPerformance](img/businessPerformance.PNG)
 
