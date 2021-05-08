@@ -75,9 +75,7 @@ In test data, I calcuted the prediction and comparision with the worst and bette
 * Improve in 10% the Model's accuracy.
 
 
-# Who i am
-
-Hi, my name is Danilo Felipe, Computer Engineer passionate about Data Science.
+# Contact
 
 Email: danilofelipeneto@gmail.com
 
