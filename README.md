@@ -61,7 +61,7 @@ Models used in this project:
 
 XGBoost presents the best performance compare with the others models.
 
-![xgboostFinalPerformance](img/xgboostFinalPerformance.PNG)
+![model_performance](img/model_performance.PNG)
 
 
 ## Convert Model Performance to Business Values
